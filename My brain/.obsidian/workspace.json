@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "2820624ec585755b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b86b858a1f74e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07662e1366cfdd21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日々の自分の壁打ち/日々の壁打ち.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "日々の壁打ち"
+            }
+          },
+          {
+            "id": "c75ffd92b7f24c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日々の自分の壁打ち/分析結果レポート.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "分析結果レポート"
+            }
+          },
+          {
+            "id": "aa52b3c683500787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日々の自分の壁打ち/伸びない企画.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "伸びない企画"
+            }
+          },
+          {
+            "id": "9ee9ea3c3540b80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日々の自分の壁打ち/伸びている企画の共通点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "伸びている企画の共通点"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90956baec97b709b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e3fb2187188e8c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b658d195b46e484",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "cb9f775b28ab0428",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "8c2ec29ddb42558e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1d3ab9bbf6e39709",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df2391390218602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a16961ca03960cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日々の壁打ち.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "日々の壁打ちへのバックリンク"
+            }
+          },
+          {
+            "id": "b222939bfe9c787a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日々の壁打ち.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "日々の壁打ちからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "ddd06040ab843437",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "868ae57a8347cd4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "f7eb8d0bcaeaa02e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日々の自分の壁打ち/日々の壁打ち.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "日々の壁打ちのアウトライン"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8b658d195b46e484",
+  "lastOpenFiles": [
+    "日々の自分の壁打ち/伸びている企画の共通点.md",
+    "日々の自分の壁打ち/日々の壁打ち.md",
+    "日々の自分の壁打ち/分析結果レポート.md",
+    "日々の自分の壁打ち/伸びない企画.md",
+    "日々の自分の壁打ち/伸びている企画.md",
+    "日々の壁打ち.md",
+    "海外の反応壁打ち/海外の反応視聴者理解.md",
+    "2025.md",
+    "Welcome.md",
+    "2025-12-11.md",
+    "日々の自分の壁打ち",
+    "海外の反応壁打ち",
+    "プロンプト"
+  ]
+}
